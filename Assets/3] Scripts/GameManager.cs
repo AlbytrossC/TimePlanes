@@ -31,6 +31,10 @@ public class GameManager : MonoBehaviour
         GameOver
     }
     public GameState CurrentGameState { get; private set; }
+    public void SetGameState(GameState state)
+    {
+        CurrentGameState = state;
+    }
 
     #endregion
 
