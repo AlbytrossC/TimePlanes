@@ -153,7 +153,7 @@
       "dependencies": {}
     },
     "com.unity.ide.rider": {
-      "version": "3.0.39",
+      "version": "3.0.40",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -241,11 +241,11 @@
       }
     },
     "com.unity.sdk.linux-x86_64": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.sysroot.base": "1.1.0"
+        "com.unity.sysroot.base": "1.1.1"
       },
       "url": "https://packages.unity.com"
     },
@@ -266,7 +266,7 @@
       }
     },
     "com.unity.sysroot.base": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -305,11 +305,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.toolchain.linux-x86_64-linux": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.sysroot.base": "1.1.0"
+        "com.unity.sysroot.base": "1.1.1"
       },
       "url": "https://packages.unity.com"
     },

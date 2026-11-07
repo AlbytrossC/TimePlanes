@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    #region Singleton Setup
+    #region Singleton Setup (make child of Mono later)
     private static GameManager instance;
     public static GameManager Instance
     {
